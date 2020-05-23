@@ -1,0 +1,12 @@
+[2020-05-06 18:12:28] glpiphplog.WARNING: Test logger  
+[2020-05-06 18:18:45] glpiphplog.WARNING: Test logger  
+[2020-05-06 18:18:49] glpiphplog.WARNING: Test logger  
+[2020-05-06 18:20:39] glpiphplog.WARNING: Test logger  
+[2020-05-06 18:20:51] glpiphplog.WARNING: Test logger  
+[2020-05-06 18:21:07] glpiphplog.WARNING: Test logger  
+[2020-05-06 18:21:39] glpiphplog.WARNING: Test logger  
+[2020-05-06 18:22:51] glpiphplog.WARNING: Test logger  
+[2020-05-06 18:24:49] glpiphplog.DEBUG: Html::compileScss() in /var/www/html/inc/html.class.php line 6828
+css/styles is new, loading  {"user":"@debian"} 
+[2020-05-06 18:24:49] glpiphplog.DEBUG: Html::compileScss() in /var/www/html/inc/html.class.php line 6828
+css/palettes/auror is new, loading  {"user":"@debian","mem_usage":"0.001\", 1.06Mio)"} 

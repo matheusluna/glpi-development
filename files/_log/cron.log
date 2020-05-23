@@ -1,0 +1,46 @@
+2020-05-06 18:24:53 [@debian]
+Interno #1: Executar createinquest
+2020-05-06 19:21:58 [@debian]
+Interno #1: Executar watcher
+2020-05-06 19:34:58 [@debian]
+Interno #1: Executar ticketrecurrent
+2020-05-06 19:35:00 [@debian]
+Interno #1: Executar planningrecall
+2020-05-06 19:35:00 [@debian]
+Interno #1: Executar queuednotification
+2020-05-06 19:35:01 [@debian]
+Interno #1: Executar queuednotificationclean
+2020-05-06 19:35:01 [@debian]
+Interno #1: Executar temp
+2020-05-06 19:35:01 [@debian]
+Interno #1: Executar mailgateerror
+2020-05-06 19:35:01 [@debian]
+Interno #1: Executar contract
+2020-05-06 19:35:02 [@debian]
+Interno #1: Executar infocom
+2020-05-06 19:35:20 [@debian]
+Interno #1: Executar mailgate
+2020-05-06 19:35:43 [@debian]
+Interno #1: Executar session
+2020-05-06 19:36:28 [@debian]
+Interno #1: Executar graph
+2020-05-06 19:36:29 [@debian]
+Interno #1: Executar reservation
+2020-05-06 19:36:29 [@debian]
+Interno #1: Executar closeticket
+2020-05-06 19:36:30 [@debian]
+Interno #1: Executar alertnotclosed
+2020-05-06 19:36:30 [@debian]
+Interno #1: Executar slaticket
+2020-05-06 19:36:30 [@debian]
+Interno #1: Executar olaticket
+2020-05-06 19:36:49 [@debian]
+Interno #1: Executar queuednotification
+2020-05-06 19:39:29 [@debian]
+Interno #1: Executar queuednotification
+2020-05-06 19:46:36 [2@debian]
+Interno #1: Executar planningrecall
+2020-05-06 20:40:36 [2@debian]
+Interno #1: Executar queuednotification
+2020-05-19 19:46:28 [@debian]
+Interno #1: Executar slaticket
